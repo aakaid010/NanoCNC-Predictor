@@ -1,0 +1,342 @@
+Paper_ID,Title,Cellulose_Source,Acid_Type,Acid_conc_wt_percent,Temp_C,Time_min,Crystallinity_percent,CNC_Length_nm,Cellulose_Group
+P001,Influence of mechanical pretreatment to isolate cellulose nanocrystals by sulfuric acid hydrolysis,Bleached eucalyptus pulp,H2SO4,55,65,150,70,250,Wood / Pulp-based
+P002,Preparation and Characterization of Cellulose Nanocrystal Extracted from Ramie Fibers by Sulfuric Acid Hydrolysis,Ramie fiber,H2SO4,58,45,30,90.77,145.61,Natural Plant Fiber
+P002,Preparation and Characterization of Cellulose Nanocrystal Extracted from Ramie Fibers by Sulfuric Acid Hydrolysis,Ramie fiber,H2SO4,58,65,30,80.32,108.78,Natural Plant Fiber
+P002,Preparation and Characterization of Cellulose Nanocrystal Extracted from Ramie Fibers by Sulfuric Acid Hydrolysis,Ramie fiber,H2SO4,58,45,60,83.52,107.02,Natural Plant Fiber
+P003,Characterization of Cellulose Nanocrystals Produced by Acid-Hydrolysis from Sugarcane Bagasse as Agro-Waste,Sugarcane bagasse,H2SO4,64,45,60,72.5,365,Agricultural Waste
+P004,Extraction and analysis of cellulose nanocrystals from cotton balls by acid hydrolysis,Cotton,H2SO4,64,50,60,77.6,108.8,Other
+P005,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum Fertilized by Municipal Sewage Sludge via Sulfuric Acid Hydrolysis,Pennisetum hydridum fiber,H2SO4,40,25,120,56.48,406.6,Agricultural Waste
+P005,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum Fertilized by Municipal Sewage Sludge via Sulfuric Acid Hydrolysis,Pennisetum hydridum fiber,H2SO4,55,25,120,62.52,278,Agricultural Waste
+P005,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum Fertilized by Municipal Sewage Sludge via Sulfuric Acid Hydrolysis,Pennisetum hydridum fiber,H2SO4,65,25,120,62.59,272.5,Agricultural Waste
+P006,"Effects of hydrolysis conditions on the morphology, crystallinity, and thermal stability of cellulose nanocrystals extracted from kenaf bast fibers",Kenaf bast fiber,H2SO4,65,45,20,75.1,166.4,Natural Plant Fiber
+P006,"Effects of hydrolysis conditions on the morphology, crystallinity, and thermal stability of cellulose nanocrystals extracted from kenaf bast fibers",Kenaf bast fiber,H2SO4,65,45,30,80,124.3,Natural Plant Fiber
+P006,"Effects of hydrolysis conditions on the morphology, crystallinity, and thermal stability of cellulose nanocrystals extracted from kenaf bast fibers",Kenaf bast fiber,H2SO4,65,45,40,81.8,158.4,Natural Plant Fiber
+P006,"Effects of hydrolysis conditions on the morphology, crystallinity, and thermal stability of cellulose nanocrystals extracted from kenaf bast fibers",Kenaf bast fiber,H2SO4,65,45,60,81.6,149.3,Natural Plant Fiber
+P006,"Effects of hydrolysis conditions on the morphology, crystallinity, and thermal stability of cellulose nanocrystals extracted from kenaf bast fibers",Kenaf bast fiber,H2SO4,65,45,90,76.9,148.7,Natural Plant Fiber
+P006,"Effects of hydrolysis conditions on the morphology, crystallinity, and thermal stability of cellulose nanocrystals extracted from kenaf bast fibers",Kenaf bast fiber,H2SO4,65,45,120,75.3,124.3,Natural Plant Fiber
+P007,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber by Acid Hydrolysis",Waste jute fiber,H2SO4,58,40,20,80.68,1208,Natural Plant Fiber
+P007,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber by Acid Hydrolysis",Waste jute fiber,H2SO4,58,40,45,90.24,890,Natural Plant Fiber
+P007,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber by Acid Hydrolysis",Waste jute fiber,H2SO4,60,40,20,79.73,973,Natural Plant Fiber
+P007,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber by Acid Hydrolysis",Waste jute fiber,H2SO4,60,40,45,84.35,805,Natural Plant Fiber
+P007,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber by Acid Hydrolysis",Waste jute fiber,H2SO4,62,40,20,89.4,785,Natural Plant Fiber
+P007,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber by Acid Hydrolysis",Waste jute fiber,H2SO4,62,40,45,90.91,698,Natural Plant Fiber
+P009,Further characterization of cellulose nanocrystal (CNC) preparation from sulfuric acid hydrolysis of cotton fibers,Cotton fibers,H2SO4,63.9,50,45,91.26,140.9,Natural Plant Fiber
+,Further characterization of cellulose nanocrystal (CNC) preparation from sulfuric acid hydrolysis of cotton fibers,Cotton fibers,H2SO4,63.9,50,55,90.72,125.6,Natural Plant Fiber
+P010,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,Rice straw,H2SO4,50,60,60,50.2,65,Agricultural Waste
+,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,Rice straw,H2SO4,50,60,60,51,65,Agricultural Waste
+,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,Rice straw,H2SO4,50,75,80,55.4,65,Agricultural Waste
+,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,Rice straw,H2SO4,50,75,40,51.3,65,Agricultural Waste
+,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,Rice straw,H2SO4,50,81,60,51.6,65,Agricultural Waste
+P011,Cellulose Nanocrystals Derived from Textile Waste through Acid Hydrolysis and Oxidation as Reinforcing Agent of Soy Protein Film,Waste cotton textile,H2SO4,60,25,60,89.99,111.76,Other
+P012,Production of nanocellulose using controlled acid hydrolysis from large-scale production of micro-fibrillated cellulose derived from oil palm empty fruit bunches,Oil palm empty fruit bunches (OPEFB),H2SO4,25,50,210,76,151.9,Agricultural Waste
+P013,Extraction and Characterization of Cellulose Nanocrystals Produced by Acid Hydrolysis from Corn Husk,Corn husk,H2SO4,64,45,45,68.33,230.3,Agricultural Waste
+P014,Acid-Hydrolysis-Assisted Cellulose Nanocrystal Isolation from Acacia mearnsii de Wild. Wood Kraft Pulp,Acacia kraft pulp,H2SO4,50,45,60,48.28,398.83,Wood / Pulp-based
+,Acid-Hydrolysis-Assisted Cellulose Nanocrystal Isolation from Acacia mearnsii de Wild. Wood Kraft Pulp,Acacia kraft pulp,H2SO4,52,45,60,62.93,280.5,Wood / Pulp-based
+,Acid-Hydrolysis-Assisted Cellulose Nanocrystal Isolation from Acacia mearnsii de Wild. Wood Kraft Pulp,Acacia kraft pulp,H2SO4,54,45,60,71.66,260.24,Wood / Pulp-based
+,Acid-Hydrolysis-Assisted Cellulose Nanocrystal Isolation from Acacia mearnsii de Wild. Wood Kraft Pulp,Acacia kraft pulp,H2SO4,56,45,60,76.8,236.48,Wood / Pulp-based
+,Acid-Hydrolysis-Assisted Cellulose Nanocrystal Isolation from Acacia mearnsii de Wild. Wood Kraft Pulp,Acacia kraft pulp,H2SO4,58,45,60,81.76,181.7,Wood / Pulp-based
+P015,Two characteristic cellulose nanocrystals (CNCs) obtained from oxalic acid and sulfuric acid processing,Filter paper,H2SO4,64,45,45,91.72,63.66,Other
+P016,Cellulose nanocrystals from bleached rice straw pulp: acidic deep eutectic solvent versus sulphuric acid,Bleached rice straw pulp,H2SO4,64,45,45,78.3,221.6,Agricultural Waste
+P017,Preparation and mechanism analysis of morphology-controlled cellulose nanocrystals by H₂SO₄ hydrolysis of Eucalyptus pulp,Eucalyptus pulp,H2SO4,50,60,60,75.51,18.5,Wood / Pulp-based
+P018,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,56,70,90,73,281.2,Wood / Pulp-based
+,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,58,56,180,74,228.2,Wood / Pulp-based
+,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,58,56,210,74,204.6,Wood / Pulp-based
+,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,62,40,105,76,177.1,Wood / Pulp-based
+,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,62,50,75,76,143,Wood / Pulp-based
+,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,62,60,30,77,189.3,Wood / Pulp-based
+,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,62,60,60,76,149,Wood / Pulp-based
+,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,64,45,15,78,147.6,Wood / Pulp-based
+,Tailoring the yield and characteristics of wood cellulose nanocrystals (CNC) using concentrated acid hydrolysis,Eucalyptus pulp,H2SO4,64,45,105,79,130.5,Wood / Pulp-based
+P020,Optimizing crystallinity and particle size of cellulose nanocrystals from rice straw biomass: an integrated sonication-assisted acid hydrolysis approach,Rice straw,H2SO4,51.62,38,48.55,90.01,190,Agricultural Waste
+P021,Preparation and characterization of cellulose nanocrystal extracted from ramie fibers by sulfuric acid hydrolysis,Ramie fiber,H2SO4,58,45,30,90.77,145.61,Natural Plant Fiber
+,Preparation and characterization of cellulose nanocrystal extracted from ramie fibers by sulfuric acid hydrolysis,Ramie fiber,H2SO4,58,65,30,80.32,108.78,Natural Plant Fiber
+,Preparation and characterization of cellulose nanocrystal extracted from ramie fibers by sulfuric acid hydrolysis,Ramie fiber,H2SO4,58,45,60,83.52,107.02,Natural Plant Fiber
+P022,Cellulose Nanocrystal Isolation from Hardwood Pulp using Various Hydrolysis Conditions,Hardwood pulp,H2SO4,63,45,120,76,224.8,Wood / Pulp-based
+,Cellulose Nanocrystal Isolation from Hardwood Pulp using Various Hydrolysis Conditions,Hardwood pulp,H2SO4,63,45,60,73.2,229.2,Wood / Pulp-based
+,Cellulose Nanocrystal Isolation from Hardwood Pulp using Various Hydrolysis Conditions,Hardwood pulp,H2SO4,63,45,30,72.3,271.1,Wood / Pulp-based
+,Cellulose Nanocrystal Isolation from Hardwood Pulp using Various Hydrolysis Conditions,Hardwood pulp (pre-milled),H2SO4,63,45,120,47.2,95.2,Wood / Pulp-based
+P023,Obtaining cellulose nanocrystals from pineapple crown fibers by free-chlorite hydrolysis with sulfuric acid,Pineapple crown fiber,H2SO4,64,50,120,87.44,140,Natural Plant Fiber
+P024,Effect of Sulphuric Acid Concentration on Nanocellulose Extraction from Rice Husk,Rice husk,H2SO4,8,45,130,46.51,29,Agricultural Waste
+,Effect of Sulphuric Acid Concentration on Nanocellulose Extraction from Rice Husk,Rice husk,H2SO4,10,45,130,49.6,29,Agricultural Waste
+,Effect of Sulphuric Acid Concentration on Nanocellulose Extraction from Rice Husk,Rice husk,H2SO4,12,45,130,53.34,29,Agricultural Waste
+,Effect of Sulphuric Acid Concentration on Nanocellulose Extraction from Rice Husk,Rice husk,H2SO4,14,45,130,55.7,29,Agricultural Waste
+,Effect of Sulphuric Acid Concentration on Nanocellulose Extraction from Rice Husk,Rice husk,H2SO4,16,45,130,60.82,29,Agricultural Waste
+P025,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,56,50,40,59.2,14,Natural Plant Fiber
+,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,64,50,40,60.7,14,Natural Plant Fiber
+,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,56,50,60,71,14,Natural Plant Fiber
+,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,64,50,60,68.3,14,Natural Plant Fiber
+,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,54.34,50,50,73.48,14,Natural Plant Fiber
+,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,65.65,50,50,73.75,14,Natural Plant Fiber
+,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,60,50,35.85,73.04,14,Natural Plant Fiber
+,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,60,50,64.14,76.15,14,Natural Plant Fiber
+,Optimization of Sulfuric Acid Concentration and Hydrolysis Time on Crystallinity of Nanocrystalline Cellulose,Kapok fiber,H2SO4,60,50,50,70.06,14,Natural Plant Fiber
+P026,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,30,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,40,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,45,50,60,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,45,50,300,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,40,60,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,75,50,60,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,75,40,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,40,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,40,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,40,300,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,45,30,300,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,40,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,45,40,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,45,30,60,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,75,50,300,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,40,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,40,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,75,30,60,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,60,50,180,76,10,Agricultural Waste
+,Process optimization for the production of cellulose nanocrystals from rice straw derived α-cellulose,Rice straw,H2SO4,75,30,300,76,10,Agricultural Waste
+P027,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,45,30,60,84.55,17.5,Natural Plant Fiber
+,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,55,30,60,84.55,17.5,Natural Plant Fiber
+,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,65,30,60,84.55,17.5,Natural Plant Fiber
+,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,45,45,60,84.55,17.5,Natural Plant Fiber
+,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,55,45,60,84.55,17.5,Natural Plant Fiber
+,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,65,45,60,84.55,17.5,Natural Plant Fiber
+,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,45,60,60,84.55,17.5,Natural Plant Fiber
+,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,55,60,60,84.55,17.5,Natural Plant Fiber
+,Optimization of cellulose nanocrystals from bamboo shoots using RSM,Bamboo shoots,H2SO4,65,60,60,84.55,17.5,Natural Plant Fiber
+P028,Cellulose Nanocrystals from Office Paper Waste for Green Mortar,Office paper waste,H2SO4,64,45,60,82,200,Other
+,Cellulose Nanocrystals from Office Paper Waste for Green Mortar,Office paper waste,H2SO4,64,45,90,82,200,Other
+,Cellulose Nanocrystals from Office Paper Waste for Green Mortar,Office paper waste,H2SO4,64,45,120,82,200,Other
+P029,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,60,50,35,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,70,50,35,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,70,45,30,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,60,55,30,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,70,50,25,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,60,45,30,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,50,30,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,55,25,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,50,30,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,50,30,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,45,35,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,60,50,25,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,55,35,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,45,25,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,50,30,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,65,50,30,74.71,15,Agricultural Waste
+,Optimization of Preparation of Cellulose Nanocrystals from Peanut Shells Using Response Surface Methodology,Peanut shells,H2SO4,70,55,30,74.71,15,Agricultural Waste
+P030,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber",Jute fiber,H2SO4,58,40,20,80.68,1208,Natural Plant Fiber
+,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber",Jute fiber,H2SO4,58,40,45,90.24,890,Natural Plant Fiber
+,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber",Jute fiber,H2SO4,60,40,20,79.73,973,Natural Plant Fiber
+,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber",Jute fiber,H2SO4,60,40,45,84.35,805,Natural Plant Fiber
+,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber",Jute fiber,H2SO4,62,40,20,89.4,785,Natural Plant Fiber
+,"Morphological, Spectroscopic and Thermal Analysis of Cellulose Nanocrystals Extracted from Waste Jute Fiber",Jute fiber,H2SO4,62,40,45,90.91,698,Natural Plant Fiber
+P031,"Response Surface Methodology Modeling, Experimental Validation, and Optimization of Acid Hydrolysis Process Parameters for Nanocellulose Extraction ",Food biomass cellulose,H2SO4,64,45,30,72,210,Agricultural Waste
+,"Response Surface Methodology Modeling, Experimental Validation, and Optimization of Acid Hydrolysis Process Parameters for Nanocellulose Extraction ",Food biomass cellulose,H2SO4,64,45,45,75,195,Agricultural Waste
+,"Response Surface Methodology Modeling, Experimental Validation, and Optimization of Acid Hydrolysis Process Parameters for Nanocellulose Extraction ",Food biomass cellulose,H2SO4,64,45,60,78,180,Agricultural Waste
+P032,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,55,45,70,81.44,220,Agricultural Waste
+,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,60,45,90,81.44,230,Agricultural Waste
+,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,65,45,110,81.44,240,Agricultural Waste
+,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,60,50,110,81.44,200,Agricultural Waste
+,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,65,50,70,81.44,210,Agricultural Waste
+,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,55,50,90,81.44,205,Agricultural Waste
+,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,65,55,90,81.44,215,Agricultural Waste
+,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,55,55,110,81.44,225,Agricultural Waste
+,Extraction and Surface Functionalization of Cellulose Nanocrystals from Sugarcane Bagasse ,Sugarcane bagasse,H2SO4,60,55,70,81.44,235,Agricultural Waste
+P033,"Effect of Acid Concentration on Structural, Thermal, and Morphological Properties of Cellulose Nanocrystals from Sugarcane Bagasse and Their Reinforcement in Poly(Furfuryl) Alcohol Composites",Biomass cellulose,H2SO4,60,45,45,82,180,Agricultural Waste
+,"Effect of Acid Concentration on Structural, Thermal, and Morphological Properties of Cellulose Nanocrystals from Sugarcane Bagasse and Their Reinforcement in Poly(Furfuryl) Alcohol Composites",Biomass cellulose,H2SO4,60,45,60,83,170,Agricultural Waste
+,"Effect of Acid Concentration on Structural, Thermal, and Morphological Properties of Cellulose Nanocrystals from Sugarcane Bagasse and Their Reinforcement in Poly(Furfuryl) Alcohol Composites",Biomass cellulose,H2SO4,65,45,60,85,165,Agricultural Waste
+,"Effect of Acid Concentration on Structural, Thermal, and Morphological Properties of Cellulose Nanocrystals from Sugarcane Bagasse and Their Reinforcement in Poly(Furfuryl) Alcohol Composites",Biomass cellulose,H2SO4,65,45,60,86,160,Agricultural Waste
+P034,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,40,40,50,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,40,40,120,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,55,40,50,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,55,40,120,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,65,40,50,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,65,40,120,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,40,55,50,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,40,55,120,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,55,55,50,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,55,55,120,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,65,55,50,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,65,55,120,62.6,400,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,40,25,50,62.6,350,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,40,25,120,62.6,350,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,55,25,50,62.6,350,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,55,25,120,62.6,350,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,65,25,50,62.6,272,Agricultural Waste
+,Preparation and Characterization of Cellulose Nanocrystal Extraction From Pennisetum hydridum via Sulfuric Acid Hydrolysis,Pennisetum hydridum,H2SO4,65,25,120,62.6,272,Agricultural Waste
+P035,Cellulose Nanocrystal Isolation from Hardwood Pulp using Various Hydrolysis Conditions,Plant cellulose biomass,H2SO4,64,45,30,75,210,Agricultural Waste
+,Cellulose Nanocrystal Isolation from Hardwood Pulp using Various Hydrolysis Conditions,Plant cellulose biomass,H2SO4,64,45,45,77,200,Agricultural Waste
+,Cellulose Nanocrystal Isolation from Hardwood Pulp using Various Hydrolysis Conditions,Plant cellulose biomass,H2SO4,64,45,60,79,190,Agricultural Waste
+P036,Preparation and Characterization of Cellulose Nanocrystal Extracted from Ramie Fibers by Sulfuric Acid Hydrolysis,Ramie fiber,H2SO4,58,45,30,90.77,145,Natural Plant Fiber
+,Preparation and Characterization of Cellulose Nanocrystal Extracted from Ramie Fibers by Sulfuric Acid Hydrolysis,Ramie fiber,H2SO4,58,55,30,87.99,145,Natural Plant Fiber
+,Preparation and Characterization of Cellulose Nanocrystal Extracted from Ramie Fibers by Sulfuric Acid Hydrolysis,Ramie fiber,H2SO4,58,65,30,80.32,145,Natural Plant Fiber
+,Preparation and Characterization of Cellulose Nanocrystal Extracted from Ramie Fibers by Sulfuric Acid Hydrolysis,Ramie fiber,H2SO4,58,45,45,87.55,145,Natural Plant Fiber
+,Preparation and Characterization of Cellulose Nanocrystal Extracted from Ramie Fibers by Sulfuric Acid Hydrolysis,Ramie fiber,H2SO4,58,45,60,83.52,145,Natural Plant Fiber
+P037,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,Biomass cellulose,H2SO4,64,45,30,74,210,Agricultural Waste
+,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,Biomass cellulose,H2SO4,64,45,45,77,200,Agricultural Waste
+,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,Biomass cellulose,H2SO4,64,45,60,80,190,Agricultural Waste
+P038,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,0.67,93.33,458,Processed Cellulose
+,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,0.92,93.75,458,Processed Cellulose
+,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,1.17,93.39,458,Processed Cellulose
+,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,1.42,93.8,458,Processed Cellulose
+,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,0.67,92.82,436,Processed Cellulose
+,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,1.17,92.13,436,Processed Cellulose
+,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,2.17,91.98,436,Processed Cellulose
+,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,1,94.14,422,Processed Cellulose
+,Evaluation of the kinetics of low-intensity ultrasound-assisted sulfuric acid hydrolysis to obtain CNCs from microcrystalline cellulose,MCC,H2SO4,64,45,1.67,93.71,422,Processed Cellulose
+P039,Sulfuric acid alcoholysis as a way to obtain cellulose nanocrystals,Sulfate cellulose,H2SO4,62,50,120,80,300,Processed Cellulose
+,Sulfuric acid alcoholysis as a way to obtain cellulose nanocrystals,Sulfate cellulose,H2SO4,62,50,120,86,300,Processed Cellulose
+,Sulfuric acid alcoholysis as a way to obtain cellulose nanocrystals,Sulfate cellulose,H2SO4,60,50,120,83,300,Processed Cellulose
+,Sulfuric acid alcoholysis as a way to obtain cellulose nanocrystals,Sulfate cellulose,H2SO4,60,50,120,82,300,Processed Cellulose
+,Sulfuric acid alcoholysis as a way to obtain cellulose nanocrystals,Sulfate cellulose,H2SO4,55,50,120,82,300,Processed Cellulose
+,Sono-chemical Preparation of Cellulose Nanowhiskers from Luffa cylindrica Fibers Optimized by Response Surface Methodology,Luffa cylindrica fibers,H2SO4,62,51,46,68.7,200,Natural Plant Fiber
+P040,Maximizing production of cellulose nanocrystals and nanofibers from pre-extracted loblolly pine kraft pulp: a response surface approach,pre-extracted and fully bleached loblolly pine kraft pulp,H2SO4,60,58,60,75.9,162.8,Wood / Pulp-based
+P041,"Effects of hydrolysis conditions on the morphology, crystallinity, and thermal stability of cellulose nanocrystals extracted from kenaf bast fibers",kenaf bast fibers,H2SO4,65,45,40,81.8,158.4,Natural Plant Fiber
+P042,Preparation and Characterizations of Nanocellulose from Wood Pulp using Hydrolysis Method,bleached wood pulp,H2SO4,60,45,60,90,200,Wood / Pulp-based
+P043,Characterization of Cellulose Nanocrystals Derived from MCC Using Acid Hydrolysis,Microcrystalline cellulose,H2SO4,64,45,60,83.84,9.36,Processed Cellulose
+P044,CNC from rice husk via sulfuric acid hydrolysis,Rice husk,H2SO4,64,45,60,78,225,Agricultural Waste
+P045,The Influence of Pre-treatment Time and Sulfuric Acid on Cellulose Nanocrystals,Cotton fiber,H2SO4,64.1,45,60,92.5,145,Natural Plant Fiber
+P045,The Influence of Pre-treatment Time and Sulfuric Acid on Cellulose Nanocrystals,Cotton fiber,H2SO4,64.1,45,60,92.6,137,Natural Plant Fiber
+P046,Characteristics and kinetics study of spherical cellulose nanocrystal extracted from cotton cloth waste by acid hydrolysis,Cotton cloth waste,H2SO4,55,45,60,94,53,Other
+P047,Characteristics and kinetics study of spherical cellulose nanocrystal extracted from cotton cloth waste by acid hydrolysis,Cotton cloth waste,H2SO4,55,45,60,95,14,Other
+P048,Optimizing the yield and physico-chemical properties of pine cone cellulose nanocrystals by different hydrolysis time,Pine cones,H2SO4,65,45,30,83.2,334.9,Other
+P049,Optimizing the yield and physico-chemical properties of pine cone cellulose nanocrystals by different hydrolysis time,Pine cones,H2SO4,65,45,45,88.5,328.9,Other
+P049,Optimizing the yield and physico-chemical properties of pine cone cellulose nanocrystals by different hydrolysis time,Pine cones,H2SO4,65,45,90,80.8,206.5,Other
+P050,Relationship between Structural Characteristics of Cellulose Nanocrystals Obtained from Kraft Pulp,Bleached kraft eucalyptus pulp,H2SO4,44.1,80,10,69.9,4.9,Wood / Pulp-based
+P050,Relationship between Structural Characteristics of Cellulose Nanocrystals Obtained from Kraft Pulp,Bleached kraft eucalyptus pulp,H2SO4,64.8,80,10,72.2,4.6,Wood / Pulp-based
+P050,Relationship between Structural Characteristics of Cellulose Nanocrystals Obtained from Kraft Pulp,Bleached kraft eucalyptus pulp,H2SO4,44.1,80,120,81.9,4.5,Wood / Pulp-based
+P050,Relationship between Structural Characteristics of Cellulose Nanocrystals Obtained from Kraft Pulp,Bleached kraft eucalyptus pulp,H2SO4,54.5,60,65,74.3,4.7,Wood / Pulp-based
+P051,Preparation and Characterization of Bamboo Nanocrystalline Cellulose,Bamboo pulp,H2SO4,48,50,30,71.98,350,Natural Plant Fiber
+P052,Optimization of process parameters for cellulose nanocrystals derivative from coconut shell,Coconut shell,H2SO4,55,45,45,90.41,54.91,Agricultural Waste
+P052,Optimization of process parameters for cellulose nanocrystals derivative from coconut shell,Coconut shell,H2SO4,65,55,45,90.41,54.91,Agricultural Waste
+P052,Optimization of process parameters for cellulose nanocrystals derivative from coconut shell,Coconut shell,H2SO4,55,45,75,90.41,54.91,Agricultural Waste
+P052,Optimization of process parameters for cellulose nanocrystals derivative from coconut shell,Coconut shell,H2SO4,65,55,75,90.41,54.91,Agricultural Waste
+P053,Isolation of Cellulose Nanocrystals from Bacterial Cellulose Produced from Pineapple Peel Waste Juice,Bacterial cellulose (pineapple peel waste),H2SO4,50,50,25,96.5,325,Agricultural Waste
+P053,Isolation of Cellulose Nanocrystals from Bacterial Cellulose Produced from Pineapple Peel Waste Juice,Bacterial cellulose (pineapple peel waste),H2SO4,50,50,30,96.5,325,Agricultural Waste
+P053,Isolation of Cellulose Nanocrystals from Bacterial Cellulose Produced from Pineapple Peel Waste Juice,Bacterial cellulose (pineapple peel waste),H2SO4,50,50,35,96.5,325,Agricultural Waste
+P053,Isolation of Cellulose Nanocrystals from Bacterial Cellulose Produced from Pineapple Peel Waste Juice,Bacterial cellulose (pineapple peel waste),H2SO4,50,50,40,96.5,325,Agricultural Waste
+P054,Parametric optimization of the production of cellulose nanocrystals (CNCs) from South African corncobs via an empirical modelling approach,South African corncobs,H2SO4,45,65,30,79.11,245,Other
+P054,Parametric optimization of the production of cellulose nanocrystals (CNCs) from South African corncobs via an empirical modelling approach,South African corncobs,H2SO4,55,100,90,79.11,245,Other
+P054,Parametric optimization of the production of cellulose nanocrystals (CNCs) from South African corncobs via an empirical modelling approach,South African corncobs,H2SO4,45,30,60,79.11,245,Other
+P054,Parametric optimization of the production of cellulose nanocrystals (CNCs) from South African corncobs via an empirical modelling approach,South African corncobs,H2SO4,65,65,90,79.11,245,Other
+P055,Isolation and Characterization of Cellulose Nanocrystals Produced by Acid Hydrolysis from Banana Pseudostem,Banana pseudostem fiber,H2SO4,64,45,60,64.2,500,Natural Plant Fiber
+P056,Cellulose nanocrystals from agricultural residues (Eichhornia crassipes): Extraction and characterization,Nile rose fibers (Eichhornia crassipes),H2SO4,60,45,5,65.5,230.7,Natural Plant Fiber
+P056,Cellulose nanocrystals from agricultural residues (Eichhornia crassipes): Extraction and characterization,Nile rose fibers (Eichhornia crassipes),H2SO4,60,45,10,87.6,181.91,Natural Plant Fiber
+P056,Cellulose nanocrystals from agricultural residues (Eichhornia crassipes): Extraction and characterization,Nile rose fibers (Eichhornia crassipes),H2SO4,60,45,20,77.1,107.84,Natural Plant Fiber
+P057,Extraction and characterization of cellulose nanocrystals from corncob for application as reinforcing agent in nanocomposites,Corncob,H2SO4,9.17,45,30,79.8,287.3,Other
+P057,Extraction and characterization of cellulose nanocrystals from corncob for application as reinforcing agent in nanocomposites,Corncob,H2SO4,9.17,45,60,83.7,210.8,Other
+P057,Extraction and characterization of cellulose nanocrystals from corncob for application as reinforcing agent in nanocomposites,Corncob,H2SO4,9.17,45,90,78,195.9,Other
+P058,"Extraction, Characterization, and Optimization of Cellulose Nanocrystals from Corncob",Corncob,H2SO4,61.66,45,59.93,79.3,170.3,Other
+P059,Production of Nanocrystalline Cellulose from Bleached Soda Bagasse Pulp,Bleached soda bagasse pulp,H2SO4,54,50,90,61,303.38,Agricultural Waste
+P060,Thermal characterization of cellulose nanocrystals isolated from sisal fibers using acid hydrolysis,Acid-bleached sisal fiber,H2SO4,60,55,30,68,128.55,Natural Plant Fiber
+P060,Thermal characterization of cellulose nanocrystals isolated from sisal fibers using acid hydrolysis,Basic-bleached sisal fiber,H2SO4,60,55,30,73,156.75,Natural Plant Fiber
+P061,Isolation of cellulose nanocrystals from medium density fiberboards,Medium density fiberboards (MDF),H2SO4,65,60,30,59,1750,Natural Plant Fiber
+P061,Isolation of cellulose nanocrystals from medium density fiberboards,Eucalyptus wood flour mixed with 12% cured UF resin,H2SO4,65,60,30,65,1750,Wood / Pulp-based
+P061,Isolation of cellulose nanocrystals from medium density fiberboards,Eucalyptus wood flour,H2SO4,65,60,30,75,1750,Wood / Pulp-based
+P062,"Morphological, chemical and thermal analysis of cellulose nanocrystals extracted from bamboo fibre",Bamboo fibre,H2SO4,64,45,45,86.96,350,Natural Plant Fiber
+P063,Nanocrystalline cellulose derived from spruce wood: Influence of process parameters,Spruce wood,H2SO4,59,44,90,84.3,306.7,Wood / Pulp-based
+P063,Nanocrystalline cellulose derived from spruce wood: Influence of process parameters,Spruce wood,H2SO4,62,44,90,79.8,225.4,Wood / Pulp-based
+P063,Nanocrystalline cellulose derived from spruce wood: Influence of process parameters,Spruce wood,H2SO4,65,44,90,80.8,237.7,Wood / Pulp-based
+P064,Cellulose nanocrystal isolation from tomato peels and assembled nanofibers,Tomato peel cellulose,H2SO4,64,45,30,80.8,150,Agricultural Waste
+P053,Preparation and characterization of cellulose nanocrystals from rice straw,Rice straw,H2SO4,64,45,30,86,375,Agricultural Waste
+P053,Preparation and characterization of cellulose nanocrystals from rice straw,Rice straw,H2SO4,65,45,45,91.2,150,Agricultural Waste
+P056,Extraction and Characterization of Cellulose Nanocrystals from Corn Stover,Corn stover,H2SO4,55,50,15,45,389,Other
+P057,The Effect of Chemical and High-Pressure Homogenization Treatment Conditions on the Morphology of Cellulose Nanoparticles,Microcrystalline cellulose (MCC),H2SO4,64,45,60,,220,Processed Cellulose
+P057,The Effect of Chemical and High-Pressure Homogenization Treatment Conditions on the Morphology of Cellulose Nanoparticles,Microcrystalline cellulose (MCC),H2SO4,64,45,180,,120,Processed Cellulose
+P057,The Effect of Chemical and High-Pressure Homogenization Treatment Conditions on the Morphology of Cellulose Nanoparticles,Microcrystalline cellulose (MCC),H2SO4,64,45,180,,90,Processed Cellulose
+P058,Thermal Stability of Cellulose Nanocrystals from Curaua Fiber Isolated by Acid Hydrolysis,Curaua fiber,H2SO4,46,45,75,78.8,78,Natural Plant Fiber
+P058,Thermal Stability of Cellulose Nanocrystals from Curaua Fiber Isolated by Acid Hydrolysis,Curaua fiber,H2SO4,28,45,75,79,91,Natural Plant Fiber
+P060,Cellulose I and II nanocrystals produced by sulfuric acid hydrolysis of Tetra pak cellulose I,Tetra pak cellulose fibers,H2SO4,64,45,15,68.9,375,Natural Plant Fiber
+P060,Cellulose I and II nanocrystals produced by sulfuric acid hydrolysis of Tetra pak cellulose I,Tetra pak cellulose fibers,H2SO4,64,45,30,83,375,Natural Plant Fiber
+P061,Development of PLA-Based Composites Employing Cellulose Nanocrystals Extracted from Rice Bran Waste,Rice bran waste,H2SO4,64,45,45,47.8,327,Other
+P062,Cellulose Nanocrystals: From Extraction to Applications,Recycled waste paper,H2SO4,40,45,30,80,200,Other
+P063,"Sweet cherry stalks to nanocrystalline cellulose: Synthesis, characterization, and stabilization of insect oil/water Pickering emulsions",Sweet cherry stalks,H2SO4,60,25,45,69,28.16,Other
+P064,Isolation and characterization of nanocrystalline cellulose from cocoa pod husk (CPH) biomass wastes,Cocoa pod husk,H2SO4,64,45,60,67.6,98,Agricultural Waste
+P065,Characterization of cellulose nanocrystal extracted from household waste and its application for seed germination,Waste corrugated cardboard (WCC),H2SO4,64,50,120,81.11,128.42,Other
+P065,Characterization of cellulose nanocrystal extracted from household waste and its application for seed germination,Waste paper towel (WPT),H2SO4,64,50,120,85.29,179.92,Other
+P065,Characterization of cellulose nanocrystal extracted from household waste and its application for seed germination,Waste paper towel cardboard roll (WPTR),H2SO4,64,50,120,80.68,159.82,Other
+P066,APPLICATION OF CELLULOSE NANOCRYSTALS (CNC) AS REINFORCING MATERIALS IN BIO-NANOCOMPOSITES,Kenaf bast fibre,H2SO4,65,45,40,82,158.5,Natural Plant Fiber
+P066,APPLICATION OF CELLULOSE NANOCRYSTALS (CNC) AS REINFORCING MATERIALS IN BIO-NANOCOMPOSITES,Rice husk,H2SO4,65,45,40,59,225,Agricultural Waste
+P066,Nanocrystalline Cellulose Extracted from Discarded Cigarette Butts,discarded cigarette butts,H2SO4,55,45,45,64.8,356.6,Other
+P067,"Effect of Hydrolysis Treatment on Cellulose Nanowhiskers from Oil Palm (Elaeis guineesis) Fronds: Morphology, Chemical, Crystallinity, and Thermal Characteristics",oil palm fronds,H2SO4,64,45,45,69.5,178,Other
+P068,Functionalization of cellulose nanocrystals extracted from pineapple leaves as a UV-absorbing agent in poly(lactic acid),pineapple leaves,H2SO4,64,60,60,60.34,114.59,Other
+P069,"Controlled sulfuric acid alcoholysis of cellulose in a medium of primary monohydric alcohols (CnH2n+1OH, n=5-8) for obtaining cellulose nanocrystals",coniferous wood sulfate-bleached pulp,H2SO4,50,50,120,87,300,Wood / Pulp-based
+P069,"Controlled sulfuric acid alcoholysis of cellulose in a medium of primary monohydric alcohols (CnH2n+1OH, n=5-8) for obtaining cellulose nanocrystals",coniferous wood sulfate-bleached pulp,H2SO4,45,50,120,86,300,Wood / Pulp-based
+P069,"Controlled sulfuric acid alcoholysis of cellulose in a medium of primary monohydric alcohols (CnH2n+1OH, n=5-8) for obtaining cellulose nanocrystals",coniferous wood sulfate-bleached pulp,H2SO4,40,50,120,84,300,Wood / Pulp-based
+P069,"Controlled sulfuric acid alcoholysis of cellulose in a medium of primary monohydric alcohols (CnH2n+1OH, n=5-8) for obtaining cellulose nanocrystals",coniferous wood sulfate-bleached pulp,H2SO4,40,50,120,86,300,Wood / Pulp-based
+P070,Influence of Hydrolysis Conditions on Production of Cellulose Nanocrystalline Particles,bleached Kraft pulp,H2SO4,60,45,60,76,160,Wood / Pulp-based
+P071,Preparation and Characterization of Nanocrystalline Cellulose from Cladophora sp. Algae,Cladophora sp. algae,H2SO4,58,100,900,95.18,220,Algae / Marine
+P071,Preparation and Characterization of Nanocrystalline Cellulose from Cladophora sp. Algae,Cladophora sp. algae,H2SO4,62,100,900,95.48,221.7,Algae / Marine
+P071,Preparation and Characterization of Nanocrystalline Cellulose from Cladophora sp. Algae,Cladophora sp. algae,H2SO4,60,100,300,96.16,248.3,Algae / Marine
+P071,Preparation and Characterization of Nanocrystalline Cellulose from Cladophora sp. Algae,Cladophora sp. algae,H2SO4,60,100,600,96.32,210.4,Algae / Marine
+P071,Preparation and Characterization of Nanocrystalline Cellulose from Cladophora sp. Algae,Cladophora sp. algae,H2SO4,60,100,900,96.36,189.2,Algae / Marine
+P072,Influence of Acid Hydrolysis Reaction Time on the Isolation of Cellulose Nanowhiskers from Oil Palm Empty Fruit Bunch Microcrystalline Cellulose,oil palm empty fruit bunch microcrystalline cellulose (OPEFB-MCC),H2SO4,64,40,30,77.19,146,Agricultural Waste
+P072,Influence of Acid Hydrolysis Reaction Time on the Isolation of Cellulose Nanowhiskers from Oil Palm Empty Fruit Bunch Microcrystalline Cellulose,oil palm empty fruit bunch microcrystalline cellulose (OPEFB-MCC),H2SO4,64,40,60,75.89,132,Agricultural Waste
+P072,Influence of Acid Hydrolysis Reaction Time on the Isolation of Cellulose Nanowhiskers from Oil Palm Empty Fruit Bunch Microcrystalline Cellulose,oil palm empty fruit bunch microcrystalline cellulose (OPEFB-MCC),H2SO4,64,40,90,76.81,110,Agricultural Waste
+P073,Study of Cellulose Interaction with Concentrated Solutions of Sulfuric Acid,microcrystalline cellulose,H2SO4,58,45,60,74,175,Processed Cellulose
+P074,Superposition of Acid Concentration and Temperature at Production of Nanocrystalline Cellulose Particles,Whatman filter paper,H2SO4,40,80,60,76,150,Other
+P075,"Isolation and Characterization of Spherical Cellulose Nanocrystals Extracted from the Higher Cellulose Yield of the Jenfokie Plant: Morphological, Structural, and Thermal Properties",Jenfokie plant,H2SO4,64,45,40,98.4,,Other
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,39,60,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,60,60,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,60,60,50.2,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,75,80,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,60,60,51,65,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,45,40,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,75,80,55.4,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,45,80,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,75,40,51.3,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,60,60,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,45,80,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,75,40,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,60,60,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,60,60,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,60,88,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,60,32,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,45,40,,,Agricultural Waste
+P076,Effect of Acid Hydrolysis Conditions on the Extraction of Cellulose Nanocrystals,rice straw,H2SO4,50,81,60,51.6,,Agricultural Waste
+P077,Suitability of Date Palm Leaflets for Sulphated Cellulose Nanocrystals Synthesis,date palm leaflets,H2SO4,64,70,30,85.5,,Other
+P078,Study of Conversion of Cellulose into Micro-and Nano Crystalline Particles during Acidic Hydrolysis,cotton cellulose,H2SO4,,60,60,76,250,Other
+P078,Study of Conversion of Cellulose into Micro-and Nano Crystalline Particles during Acidic Hydrolysis,cotton cellulose,H2SO4,,45,60,79,150,Other
+P079,Preparation and Characterization of Nanocrystalline Cellulose from Sugar Palm Bunch (Arenga pinnata (Wurmb) Merr.),sugar palm bunch,H2SO4,54,45,45,97.57,,Agricultural Waste
+P080,Extraction and Characterization of Cellulose Nanocrystals from Tea Leaf Waste Fibers,tea leaf waste fibers,H2SO4,65,45,45,83.1,,Natural Plant Fiber
+P081,Isolation and Characterization of Cellulose Nanocrystals from Oil Palm Mesocarp Fiber,oil palm mesocarp fiber,H2SO4,65,45,45,77.8,,Natural Plant Fiber
+P082,Oil Palm Frond Waste for the Production of Cellulose Nanocrystals,oil palm frond waste,H2SO4,,45,60,54.5,504.12,Other
+P083,Extraction of Cellulose Nano Crystalline from Cotton by Ultrasonic and Its Morphological and Structural Characterization,cotton,H2SO4,30,,30,80.55,500,Other
+P084,Optimization of the Obtaining of Cellulose Nanocrystals from Agave tequilana Weber Var. Azul Bagasse,Agave tequilana Weber var. Azul bagasse,H2SO4,65,40,70,,137±68,Agricultural Waste
+P084,Optimization of the Obtaining of Cellulose Nanocrystals from Agave tequilana Weber Var. Azul Bagasse,Agave tequilana Weber var. Azul bagasse,H2SO4,65,60,70,91.3,149±59,Agricultural Waste
+P084,Optimization of the Obtaining of Cellulose Nanocrystals from Agave tequilana Weber Var. Azul Bagasse,Agave tequilana Weber var. Azul bagasse,H2SO4,65,40,55,89.7,,Agricultural Waste
+P084,Optimization of the Obtaining of Cellulose Nanocrystals from Agave tequilana Weber Var. Azul Bagasse by Acid Hydrolysis,Agave tequilana Weber var. Azul bagasse,H2SO4,60,40,40,88.4,404,Agricultural Waste
+P084,Optimization of the Obtaining of Cellulose Nanocrystals from Agave tequilana Weber Var. Azul Bagasse by Acid Hydrolysis,Agave tequilana Weber var. Azul bagasse,H2SO4,65,60,70,91.3,149,Agricultural Waste
+P084,Optimization of the Obtaining of Cellulose Nanocrystals from Agave tequilana Weber Var. Azul Bagasse,Agave tequilana Weber var. Azul bagasse,H2SO4,60,40,40,88.4,424,Agricultural Waste
+P084,Optimization of the Obtaining of Cellulose Nanocrystals from Agave tequilana Weber Var. Azul Bagasse,Agave tequilana Weber var. Azul bagasse,H2SO4,65,60,70,91.3,149,Agricultural Waste
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,dissolving pulp,H2SO4,64,45,30,,150,Wood / Pulp-based
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,eucalyptus kraft pulp,H2SO4,64,45,30,,171,Wood / Pulp-based
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,microcrystalline cellulose,H2SO4,64,45,30,,179,Processed Cellulose
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,eucalyptus sawdust (LHW-treated cellulose),H2SO4,64,45,30,,280,Wood / Pulp-based
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,sugarcane rind (LHW-treated cellulose),H2SO4,64,45,30,,210,Other
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,sugarcane pith (LHW-treated cellulose),H2SO4,64,45,30,,319,Other
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,eucalyptus sawdust (ALK-treated cellulose),H2SO4,64,45,30,,282,Wood / Pulp-based
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,sugarcane rind (ALK-treated cellulose),H2SO4,64,45,30,,214,Other
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,sugarcane pith (ALK-treated cellulose),H2SO4,64,45,30,,241,Other
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,eucalyptus sawdust (LHW+ALK-treated cellulose),H2SO4,64,45,30,,251,Wood / Pulp-based
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,sugarcane rind (LHW+ALK-treated cellulose),H2SO4,64,45,30,,223,Other
+P085,Nanostructure variability of cellulose from plants and the impact on cellulose nanocrystals production,sugarcane pith (LHW+ALK-treated cellulose),H2SO4,64,45,30,,287,Other
+P086,Isolation and Characterization of Cellulose Nanocrystals from Solid Seaweed Wastes,solid seaweed wastes (Kappaphycus alvarezii carrageenan residue),H2SO4,8,90,60,63.65,,Agricultural Waste
+P086,Isolation and Fractionation of Cellulose Nanocrystals from Kenaf Core,kenaf core,H2SO4,64,,45,73.98,160,Natural Plant Fiber
+P086,Isolation and Fractionation of Cellulose Nanocrystals from Kenaf Core,kenaf core,H2SO4,64,,55,81.15,205,Natural Plant Fiber
+P086,Isolation and Characterization of Cellulose Whiskers from Kenaf (Hibiscus cannabinus L.) Bast Fibers,kenaf bast fibers,H2SO4,,50,60,72,300,Natural Plant Fiber
+P087,Synthesis and Characterization of Nanocrystalline Cellulose Derived from Pineapple Crown Fibers,pineapple crown fibers,H2SO4,30,50,120,75.1,,Natural Plant Fiber
+P088,Comparing Acid and Enzymatic Hydrolysis Methods for Cellulose Nanocrystals (CNCs) Obtention from Agroindustrial Rice Husk Waste,rice husk,H2SO4,64,45,45,28.7,35,Agricultural Waste
+P089,Cellulose nanocrystal production focusing on cellulosic material pre-treatment and acid hydrolysis time,cotton fibers,H2SO4,65,50,50,,,Natural Plant Fiber
+P089,Cellulose nanocrystal production focusing on cellulosic material pre-treatment and acid hydrolysis time,cotton fibers,H2SO4,65,50,90,,,Natural Plant Fiber
+P089,Cellulose nanocrystal production focusing on cellulosic material pre-treatment and acid hydrolysis time,cotton fibers,H2SO4,65,50,130,,,Natural Plant Fiber
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,55,35,180,31.1,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,55,35,360,25.6,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,60,35,180,28.2,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,60,35,360,26.65,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,64,35,180,23.5,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,64,35,360,25.5,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,55,45,180,21.7,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,55,45,360,22.7,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,60,45,180,22.6,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,60,45,360,24.2,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,64,45,180,23.3,,Agricultural Waste
+P089,Cellulose nanofiber isolation from palm oil Empty Fruit Bunches (EFB) through strong acid hydrolysis,palm oil empty fruit bunches,H2SO4,64,45,360,25.7,,Agricultural Waste
+P090,Preparation and Characterization of Nanocrystalline Cellulose by Acid Hydrolysis of Cotton Linter,Cotton linter,H2SO4,50,45,15,,20,Other
+P090,Preparation and Characterization of Nanocrystalline Cellulose by Acid Hydrolysis of Cotton Linter,Cotton linter,H2SO4,55,50,10,,200.3,Other
+P090,Preparation and Characterization of Nanocrystalline Cellulose by Acid Hydrolysis of Cotton Linter,Cotton linter,H2SO4,60,45,5,,100.6,Other
